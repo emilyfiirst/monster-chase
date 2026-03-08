@@ -17,6 +17,9 @@ public class Player : MonoBehaviour
     private Animator anim;
     private string WALK_ANIMATION = "Walk"; //variavel que criamos na animacao
 
+    private bool isGrounded;
+    private string GROUND_TAG = "Ground";
+
     private void Awake()
     {
         myBody = GetComponent<Rigidbody2D>();
@@ -75,9 +78,20 @@ public class Player : MonoBehaviour
 
     void PlayerJump()
     {
-        if(Input.GetButtonDown("Jump")) //genero neutro de plataforma
+        if(Input.GetButtonDown("Jump") && isGrounded) //genero neutro de plataforma
         {
+            isGrounded = false;
             myBody.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
         }
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag(GROUND_TAG))
+        {
+            isGrounded = true;
+            Debug.Log("On Ground");
+        }
+    }
+
 }

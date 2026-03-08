@@ -146,11 +146,11 @@ Transform:
   m_GameObject: {fileID: 37800386}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 40.860004, y: -5.78, z: 0}
+  m_LocalPosition: {x: 18.160004, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2030749475}
+  m_Father: {fileID: 2048746983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &37800388
 BoxCollider2D:
@@ -557,11 +557,11 @@ Transform:
   m_GameObject: {fileID: 79860626}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -68.100006, y: -5.7799983, z: 0}
+  m_LocalPosition: {x: -90.8, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2030749475}
+  m_Father: {fileID: 2048746983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &79860628
 BoxCollider2D:
@@ -786,11 +786,11 @@ Transform:
   m_GameObject: {fileID: 149426670}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 27.240002, y: -5.78, z: 0}
+  m_LocalPosition: {x: 4.540001, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2030749475}
+  m_Father: {fileID: 2048746983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &149426672
 BoxCollider2D:
@@ -910,7 +910,7 @@ GameObject:
   - component: {fileID: 151099549}
   m_Layer: 0
   m_Name: Ground (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1426,11 +1426,11 @@ Transform:
   m_GameObject: {fileID: 359542208}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -49.940006, y: -5.7799983, z: 0}
+  m_LocalPosition: {x: -72.64001, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2030749475}
+  m_Father: {fileID: 2048746983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &359542210
 BoxCollider2D:
@@ -1732,7 +1732,7 @@ GameObject:
   - component: {fileID: 421083396}
   m_Layer: 0
   m_Name: Ground (16)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2496,7 +2496,7 @@ GameObject:
   - component: {fileID: 687311676}
   m_Layer: 0
   m_Name: Ground (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2648,11 +2648,11 @@ Transform:
   m_GameObject: {fileID: 766907814}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 54.480007, y: -5.780001, z: 0}
+  m_LocalPosition: {x: 31.780006, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2030749475}
+  m_Father: {fileID: 2048746983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &766907816
 BoxCollider2D:
@@ -3045,7 +3045,7 @@ GameObject:
   - component: {fileID: 851902159}
   m_Layer: 0
   m_Name: Ground (23)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3338,7 +3338,7 @@ GameObject:
   - component: {fileID: 882825713}
   m_Layer: 0
   m_Name: Ground (28)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3490,11 +3490,11 @@ Transform:
   m_GameObject: {fileID: 966837496}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 9.08, y: -5.78, z: 0}
+  m_LocalPosition: {x: -13.620001, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2030749475}
+  m_Father: {fileID: 2048746983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &966837498
 BoxCollider2D:
@@ -3628,11 +3628,11 @@ Transform:
   m_GameObject: {fileID: 1008035223}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -22.7, y: -5.7799993, z: 0}
+  m_LocalPosition: {x: -45.4, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2030749475}
+  m_Father: {fileID: 2048746983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1008035225
 BoxCollider2D:
@@ -3766,11 +3766,11 @@ Transform:
   m_GameObject: {fileID: 1039682945}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -36.320004, y: -5.7799983, z: 0}
+  m_LocalPosition: {x: -59.020004, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2030749475}
+  m_Father: {fileID: 2048746983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1039682947
 BoxCollider2D:
@@ -3890,7 +3890,7 @@ GameObject:
   - component: {fileID: 1040947962}
   m_Layer: 0
   m_Name: Ground (30)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4042,11 +4042,11 @@ Transform:
   m_GameObject: {fileID: 1128134395}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -5.78, z: 0}
+  m_LocalPosition: {x: -22.7, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2030749475}
+  m_Father: {fileID: 2048746983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1128134397
 BoxCollider2D:
@@ -4348,7 +4348,7 @@ GameObject:
   - component: {fileID: 1214778536}
   m_Layer: 0
   m_Name: Ground (15)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4486,7 +4486,7 @@ GameObject:
   - component: {fileID: 1264543758}
   m_Layer: 0
   m_Name: Ground (31)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4715,7 +4715,7 @@ GameObject:
   - component: {fileID: 1275548235}
   m_Layer: 0
   m_Name: Ground (32)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5126,7 +5126,7 @@ GameObject:
   - component: {fileID: 1444955531}
   m_Layer: 0
   m_Name: Ground (11)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5537,7 +5537,7 @@ GameObject:
   - component: {fileID: 1581802634}
   m_Layer: 0
   m_Name: Ground (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5675,7 +5675,7 @@ GameObject:
   - component: {fileID: 1587904457}
   m_Layer: 0
   m_Name: Ground (29)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5918,11 +5918,11 @@ Transform:
   m_GameObject: {fileID: 1639221166}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.54, y: -5.78, z: 0}
+  m_LocalPosition: {x: -27.240002, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2030749475}
+  m_Father: {fileID: 2048746983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1639221168
 BoxCollider2D:
@@ -6315,7 +6315,7 @@ GameObject:
   - component: {fileID: 1793359468}
   m_Layer: 0
   m_Name: Ground (25)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6544,7 +6544,7 @@ GameObject:
   - component: {fileID: 1854563604}
   m_Layer: 0
   m_Name: Ground (14)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6682,7 +6682,7 @@ GameObject:
   - component: {fileID: 1872896113}
   m_Layer: 0
   m_Name: Ground (24)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6820,7 +6820,7 @@ GameObject:
   - component: {fileID: 1873082095}
   m_Layer: 0
   m_Name: Ground (13)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6972,11 +6972,12 @@ Transform:
   m_GameObject: {fileID: 1938360540}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 13.62, y: -5.78, z: 0}
+  m_LocalPosition: {x: -9.080001, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 2030749475}
+  m_Children:
+  - {fileID: 2005127480}
+  m_Father: {fileID: 2048746983}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1938360542
 BoxCollider2D:
@@ -7201,11 +7202,11 @@ Transform:
   m_GameObject: {fileID: 2005127479}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -63.560005, y: -5.7799983, z: 0}
+  m_LocalPosition: {x: -77.18001, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2030749475}
+  m_Father: {fileID: 1938360541}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2005127481
 BoxCollider2D:
@@ -7341,18 +7342,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1128134396}
-  - {fileID: 1938360541}
-  - {fileID: 2005127480}
-  - {fileID: 149426671}
-  - {fileID: 359542209}
-  - {fileID: 37800387}
-  - {fileID: 1039682946}
-  - {fileID: 766907815}
-  - {fileID: 1008035224}
-  - {fileID: 1639221167}
-  - {fileID: 966837497}
-  - {fileID: 79860627}
   - {fileID: 2048746983}
   - {fileID: 851902158}
   - {fileID: 2073614587}
@@ -7387,7 +7376,7 @@ GameObject:
   - component: {fileID: 2048746984}
   m_Layer: 0
   m_Name: Ground (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7404,7 +7393,18 @@ Transform:
   m_LocalPosition: {x: 22.7, y: -5.78, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1938360541}
+  - {fileID: 149426671}
+  - {fileID: 359542209}
+  - {fileID: 37800387}
+  - {fileID: 1039682946}
+  - {fileID: 766907815}
+  - {fileID: 1008035224}
+  - {fileID: 1639221167}
+  - {fileID: 966837497}
+  - {fileID: 79860627}
+  - {fileID: 1128134396}
   m_Father: {fileID: 2030749475}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2048746984
@@ -7525,7 +7525,7 @@ GameObject:
   - component: {fileID: 2073614588}
   m_Layer: 0
   m_Name: Ground (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7663,7 +7663,7 @@ GameObject:
   - component: {fileID: 2083493181}
   m_Layer: 0
   m_Name: Ground (27)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7839,10 +7839,6 @@ PrefabInstance:
     - target: {fileID: 2209874707470784619, guid: 1d3ab3be0e38b5f459feacdde8900966, type: 3}
       propertyPath: m_Name
       value: Player 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4320615148584742414, guid: 1d3ab3be0e38b5f459feacdde8900966, type: 3}
-      propertyPath: moveForce
-      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
